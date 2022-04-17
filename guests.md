@@ -13,5 +13,5 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
-| Maxwell           | 2             |
+| Maxwell A         | 2             |
 | Anisha K          | 5             |
