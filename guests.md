@@ -14,3 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxwell           | 2             |
+| Anisha K          | 5             |
