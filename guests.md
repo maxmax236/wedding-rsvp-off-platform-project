@@ -13,5 +13,4 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
-| Maxibon           | 5 	        |
-| Neesh bon bon     | 2             |
+| Maxwell           | 2             |
